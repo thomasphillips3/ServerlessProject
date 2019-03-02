@@ -9,6 +9,11 @@
             "UnauthRoleName": "serverlessproject-20190301191346-unauthRole",
             "StackName": "serverlessproject-20190301191346",
             "StackId": "arn:aws:cloudformation:us-west-1:360176309871:stack/serverlessproject-20190301191346/345ffec0-3c99-11e9-82f0-029c5033407e"
+        },
+        "categories": {
+            "auth": {
+                "cognitoa142e290": {}
+            }
         }
     }
 }
